@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "sqlitecon",
+      "database": "${workspaceFolder:Cities}/A:\\Raunak\\CAP Playground\\Cities"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
